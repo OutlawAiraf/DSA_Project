@@ -4,18 +4,6 @@
   QAMAR HASSNAIN 19SW116
  */
 
-
-/*
-  MADE BY:
-  AIRAF HUSSAIN 19SW123
-  QAMAR HASSNAIN 19SW116
- */
-
-/*Project By
-19SW123:Airaf Hussain
-19SW116:Qamar Hassnain
- */
-
 import java.util.InputMismatchException;
 import java.util.LinkedList;
 import java.util.Scanner;
